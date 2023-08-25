@@ -38,3 +38,5 @@ const myObject = {
 //     console.log(key, ':-', value);
     
 // }
+
+// Note : use for-of loops for arrays [mostly time]
